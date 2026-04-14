@@ -19,4 +19,5 @@ public class Banana extends Actor
         }else{
             setLocation(600, 300);
         }
+    }
 }
